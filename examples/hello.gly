@@ -1,0 +1,5 @@
+# message = "Hello, Glyphy!"
+# answer = 6 * 7
+
+System.out.println(message)
+System.out.println(answer)
